@@ -2,6 +2,20 @@
 
 <p> Desenvolvido por Iara Rodrigues Grigorio Oliveira Silva.</p>
 
+<h2> O problema</h2>
+<p>Recentemente, um time de exploradores descobriu uma tribo perdida na floresta Amazônica.
+Os nativos falam em uma linguagem desconhecida pelos exploradores, e para facilitar a
+comunicação você deve escrever um classificador de verbos. O contato inicial com os nativos
+permitiram a dedução das seguintes regras:</p>
+<ol>
+<li> Todos os verbos são regulares</li>
+<li> Todos os verbos terminam com uma consoante seguida do sufixo ‘en’</li>
+<li> Existem apenas 3 tempos verbais: passado, presente e futuro</li>
+<li> Para conjugar o verbo, os nativos substituem o sufixo ‘en’ por outro </li> 
+</ol>
+</p>O programa analisa uma palavra, verifica se é um verbo ou não, se for um verbo,
+indica a pessoa e o tempo verbal em que ela está conjugada. </p>
+
 <h2> Observações </h2>
 <ul>
 <li> Se for mudar o arquivo verb.in, por favor, dê enter na última linha devido à lógica usada na resolução do problema.</li>
